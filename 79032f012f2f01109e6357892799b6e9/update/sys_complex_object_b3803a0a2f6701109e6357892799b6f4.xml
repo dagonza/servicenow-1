@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDff803a0ab4670110e022d2f3b58d0df3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>79032f012f2f01109e6357892799b6e9</scope_name>
+        <serialized_content>{"FlowDesigner:FDff803a0ab4670110e022d2f3b58d0df3":{"$COCollectionField":[{"Object":{}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDff803a0ab4670110e022d2f3b58d0df3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"approver list\",\"mandatory\":\"false\",\"child_name\":\"approver_list_child0\",\"uiUniqueId\":\"bf1dfaeb-c414-486d-acc1-cd592b6cabe5\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDff803a0ab4670110e022d2f3b58d0df3\",\"child_label\":\"approver list_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"f2ba2695-dcda-4bdf-abd6-5cb794de70c9\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-20 13:22:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3803a0a2f6701109e6357892799b6f4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FDff803a0ab4670110e022d2f3b58d0df3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BI approval Engine" source="79032f012f2f01109e6357892799b6e9">79032f012f2f01109e6357892799b6e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BI approval Engine">79032f012f2f01109e6357892799b6e9</sys_scope>
+        <sys_update_name>sys_complex_object_b3803a0a2f6701109e6357892799b6f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-20 14:47:26</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
